@@ -1,7 +1,5 @@
 # Web Intel — Autonomous Web Intelligence  
 
-🌐 **Live Demo:** https://ai-powered-autonomous-web-intellige.vercel.app/
-
 Paste a URL and a goal. An autonomous agent crawls the site as a tree, reasons
 over the content with a local LLM, and answers — with citations, job cards,
 and searchable history. **No API keys required — runs fully offline.**
